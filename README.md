@@ -1,4 +1,4 @@
-apps
+myBMI
 ====
 
-apps
+A minimalist BMI calculator
