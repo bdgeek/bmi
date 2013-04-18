@@ -1,6 +1,6 @@
 {
   "name": "myBMI",
-  "description": "A minimalist BMI calculator. The Body Mass Index (BMI) is designed to identify your healthy weight range based on your height. Understanding and monitoring your BMI can help you set manageable goals.",
+  "description": "A minimalist Body Mass Index (BMI) calculator, designed to identify healthy weight range based on height. Understanding and monitoring BMI can help to set manageable goals.",
   "launch_path": "/index.html",
   "icons": {
     "16": "/applogos/logo16.png",
