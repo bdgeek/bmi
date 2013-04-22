@@ -3,11 +3,11 @@
   "description": "A minimalist Body Mass Index (BMI) calculator, designed to identify healthy weight range based on height. Understanding and monitoring BMI can help to set manageable goals.",
   "launch_path": "/index.html",
   "icons": {
-    "16": "/applogos/logo16.png",
-    "32": "/applogos/logo32.png",
-    "48": "/applogos/logo48.png",
-    "64": "/applogos/logo64.png",
-    "128": "/applogos/logo128.png"
+    "16": "/images/logo16.png",
+    "32": "/images/logo32.png",
+    "48": "/images/logo48.png",
+    "64": "/images/logo64.png",
+    "128": "/images/logo128.png"
   },
   "developer": {
     "name": "Mashkawat Ahsan",
