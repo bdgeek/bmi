@@ -1,13 +1,13 @@
 {
   "name": "myBMI",
   "description": "A minimalist Body Mass Index (BMI) calculator, designed to identify healthy weight range based on height. Understanding and monitoring BMI can help to set manageable goals.",
-  "launch_path": "/index.html",
+  "launch_path": "http://bdgeek.github.io/bmi/index.html",
   "icons": {
-    "16": "/images/logo16.png",
-    "32": "/images/logo32.png",
-    "48": "/images/logo48.png",
-    "64": "/images/logo64.png",
-    "128": "/images/logo128.png"
+    "16": "http://bdgeek.github.io/bmi/images/logo16.png",
+    "32": "http://bdgeek.github.io/bmi/images/logo32.png",
+    "48": "http://bdgeek.github.io/bmi/images/logo48.png",
+    "64": "http://bdgeek.github.io/bmi/images/logo64.png",
+    "128": "http://bdgeek.github.io/bmi/images/logo128.png"
   },
   "developer": {
     "name": "Mashkawat Ahsan",
